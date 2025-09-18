@@ -1,5 +1,8 @@
 .grp{
     background-image: url("images/Tech.jpg");
+    background-repeat: no-repeat;
+    background-attachment: calc();
+    background-size: cover;
 
 }
 
@@ -26,4 +29,5 @@ img{
     margin: 20px;
     font-style: italic;
     font-size: 20px;
+    text-align: center;
 }
